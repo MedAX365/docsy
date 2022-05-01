@@ -26,8 +26,8 @@ With the help of MedAX app, facility, equipment, staff, service and patient reco
 * Front Office
 * Examination
 * Radiology
-* Laboratory
 * Hospitalization
+* Laboratory
 * Operation
 * Approval Procedures
 * Periodic
