@@ -1,5 +1,6 @@
 ---
 title: "Consultations"
+linkTitle: "Consultations"
 date: 2020-02-02
 weight: 4
 description: >
