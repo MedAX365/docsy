@@ -2,7 +2,7 @@
 ---
 title: "Front Office"
 linkTitle: "Front Office"
-weight: 2
+weight: 1
 aliases:
     - /docs/front-office/
 date: 2018-07-30
