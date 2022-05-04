@@ -7,7 +7,52 @@ description: >
   Learn how to create an appointment and find the appointment arranged
 ---
 
-Appointment description
+##  Appointments
+
+Appointments are essential for any service sector. It is considered important as it is a reservation for the work to be done. Services like doctors, lawyers, teaching, consulting etc requires appointment so that an no wastage of time is done. Reduction in probability of no service.
+
+To create a new patient appointment in MedAX, you should click on MedAX-Front Office-Appointments.
+
+
+![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\Appointments_1.png)
+
+
+Once you open the Appointments screen, you should click on new button.
+
+
+![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\Appointments_2.png)
+
+
+You will be able to see the patient details. On this screen, you should enter the patient information such as entered in the person search session.
+
+![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\Appointments_3.png)
+
+
+After you enter the patient information into the patient details, you should click on resource availability.
+
+
+![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\Appointments_4.png)
+
+
+At that point, the patient will be assigned to available doctor in the available time schedule. The empty white boxes display as available time-periods. So you can choose one of the available time-period on the table.
+
+
+![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\Appointments_6.png)
+
+
+
+Once you choose the time-period, you will see the following screen. You can see the chosen period and can edit the duration and write various notes.
+
+
+![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\Appointments_7.png)
+
+
+After you click on OK button, you will see your appointment created on the following screen.
+
+
+![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\Appointments_8.png)
+
+
 
 
 
