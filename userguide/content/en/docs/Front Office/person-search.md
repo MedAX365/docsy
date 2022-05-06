@@ -7,7 +7,7 @@ description: >
   Create a new patient or find the patient registered
 ---
 
-##  **Person Search**
+#  **Person Search**
 
   Patient records provide the documentation patients and payers use to verify billed services. Research and quality management. Patient records are used in many facilities for research purposes and for monitoring the quality of care provided.
 
