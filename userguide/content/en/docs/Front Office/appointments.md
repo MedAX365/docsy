@@ -17,6 +17,8 @@ To create a new patient appointment in MedAX, click on MedAX-Front Office-Appoin
 ![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\Appointments_1.png)
 
 
+
+
 Once you open the Appointments screen, click on new button.
 
 

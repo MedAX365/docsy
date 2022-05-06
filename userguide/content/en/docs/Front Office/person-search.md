@@ -18,6 +18,7 @@ Patient medical records includes informationally typically found in paper charts
 The information given about the patient medical records could be reached by using 'Person Search' module in MedAX.
 
 ![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_1.png)
+![](https://github.com/MedAX365/docsy/blob/2f724f9fc0a73899c7a99a4c66a803fee56ccd89/images/PersonSearch_1.png)
 
 
 
