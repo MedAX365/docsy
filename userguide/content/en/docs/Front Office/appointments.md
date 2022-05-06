@@ -11,24 +11,24 @@ description: >
 
 Appointments are essential for any service sector. It is considered important as it is a reservation for the work to be done. Services like doctors, lawyers, teaching, consulting etc requires appointment so that an no wastage of time is done. Reduction in probability of no service.
 
-To create a new patient appointment in MedAX, you should click on MedAX-Front Office-Appointments.
+To create a new patient appointment in MedAX, click on MedAX-Front Office-Appointments.
 
 
 ![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\Appointments_1.png)
 
 
-Once you open the Appointments screen, you should click on new button.
+Once you open the Appointments screen, click on new button.
 
 
 ![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\Appointments_2.png)
 
 
-You will be able to see the patient details. On this screen, you should enter the patient information such as entered in the person search session.
+You will be able to see the patient details. On this screen, enter the patient information such as entered in the person search session.
 
 ![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\Appointments_3.png)
 
 
-After you enter the patient information into the patient details, you should click on resource availability.
+After you enter the patient information into the patient details, click on resource availability.
 
 
 ![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\Appointments_4.png)
