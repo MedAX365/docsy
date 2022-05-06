@@ -17,30 +17,30 @@ Patient medical records includes informationally typically found in paper charts
 
 The information given about the patient medical records could be reached by using 'Person Search' module in MedAX.
 
-![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_1.png)
+
 ![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_1.png)
-
-
-
-
 
 On the 'Person Search' screen, you can see the all patients created previously. The row with blue color displays as the patient selected. If you want to reach a specific patient named 'Frederic Bowman', you can populate the 'Name' field as 'Fred', then press 'Enter' and you can see the specific patient. You can also reach the specific patient by populating the other fields such as 'National ID', 'Birth Date' or 'Phone Number'.
 
-![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_2.png)
 
-![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_3.png)
+![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_2.png)
+
+
+![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_3.png)
 
 ### **Visits and Appointments Relating with the Specific Patient**
 
 In the following 'Person Search' screen, you can see the selected patient as 'Aaliyah Niekerk'. Below the patients table, you can see the visits and appointments table. The visit and appointment information that belongs to 'Aaliyah Niekerk' can be reached on the table.
 
-![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_4.png)
+
+![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_4.png)
 
 ### **Creating a New Patient**
 
 On the 'Person Search' screen, you can create a new patient by clicking on the 'New' button.
 
-![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_5.png)
+
+![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_5.png)
 
 #### **Patient Details**
 
@@ -60,31 +60,31 @@ On the 'Patient Details' session, you can enter the patient information in the f
 
 After you fill all of the necessary fields, click on 'OK'.
 
-![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_6.png)
+![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_6.png)
 
 You will see the patient created on the screen.
 
-![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_7.png)
+![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_7.png)
 
 ### **Editing Information of a Patient**
 
 When it is necessary to change any information about a patient, you can use 'Edit' on the 'Person Search'. If you want to change the birth place of a patient, change the field and click on 'OK'.
 
-![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_11.png)
-![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_8.png)
-![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_12.png)
-![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_13.png)
+![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_11.png)
+![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_8.png)
+![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_12.png)
+![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_13.png)
 
 ### **OutPatient Process**
 
 After the patient registration is completed, the outpatient process of the patient can be started by clicking 'Outpatient' on 'Person Search'. Firstly, select the relevant service and doctor according to the patient's complaint and enter the medical aid or agreement information. Also, enter the customer and policy number because of the aggreement selected. Then, click 'OK'.
 
-![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_14.png)
-![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_15.png)
+![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_14.png)
+![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_15.png)
 
 You will see the visit created that belongs to Jennifer Anderson.
 
-![](C:\Users\Onur\Desktop\ETG Consulting\MedAX Screenshot\PersonSearch_16.png)
+![](https://github.com/MedAX365/docsy/blob/main/images/PersonSearch_16.png)
 
 
 
