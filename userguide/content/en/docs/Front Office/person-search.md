@@ -9,7 +9,7 @@ description: >
 
 #  **Person Search**
 
-  Patient records provide the documentation patients and payers use to verify billed services. Research and quality management. Patient records are used in many facilities for research purposes and for monitoring the quality of care provided.
+  Patient records provide the documentation patients and payers use to verify billed services. Patient records are used in many facilities for research purposes and for monitoring the quality of care provided.
 
   Patient medical records includes informationally typically found in paper charts as well as vital signs, diagnoses, medical history, immunization dates, progress notes, lab data, imaging reports and allergies. Other information such as demographics and insurance information may also be contained within these records.
 
