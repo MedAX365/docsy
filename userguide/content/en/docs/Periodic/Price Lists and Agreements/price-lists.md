@@ -67,3 +67,4 @@ To create a new price list, you can apply the following instructions.
 26.	Click Save.
 
 
+
