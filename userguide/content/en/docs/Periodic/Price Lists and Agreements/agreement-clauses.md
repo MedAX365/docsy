@@ -81,7 +81,7 @@ The patient and sponsor share are calculated, then sponsor share is substracted 
 
 Sponsor might declare that the price of the service will be reflected to patients in a certain percentage of prices based on a certain price list.
 
-![](https://github.com/MedAX365/docsy/blob/main/images/Line Rule_2.png)
+![](https://github.com/MedAX365/docsy/blob/main/images/LineRule_2.png)
 
 
 
