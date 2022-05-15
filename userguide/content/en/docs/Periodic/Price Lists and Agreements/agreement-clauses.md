@@ -73,6 +73,8 @@ Sponsor is an umbrella term. It represents an insurance company or a union or go
 
 The patient and sponsor share are calculated independently and the charges reflect them accordingly.
 
+![](https://github.com/MedAX365/docsy/blob/main/images/LineRule_1.png)
+
 #### *PS-SS - Patient Share minus Sponsor Share*
 
 The patient and sponsor share are calculated, then sponsor share is substracted from the patient share. The remaining amount is reflected to the patient.
