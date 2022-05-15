@@ -85,6 +85,40 @@ Sponsor might declare that the price of the service will be reflected to patient
 
 ![](https://github.com/MedAX365/docsy/blob/main/images/LineRule_2.png)
 
+### *Alternative Price List*
+
+In various cases, the price can not be found in the insurance company or government price lists, the sponsor allow to use another price list. The list is a alternative price list. It could be a health organization or union tariff.
+
+#### *PS SS (PSa)*
+
+The patient and sponsor share are calculated independently. When the price can not be found in the patient and sponsor share price lists, it is found in the alternative price list and that price is reflected to the patient.
+
+#### *PS SS (SSa)*
+
+The patient and sponsor share are calculated independently. When the price can not be found in the patient and sponsor share price lists, it is found in the alternative price list and that price is reflected to the sponsor.
+
+### *Require Provision*
+
+Various services requires provision, so you can adjust the requirement by the help of this option. Te selection of provision type in 'General' section is prerequisite for 'Req Provision'.
+
+### *Max Price*
+
+The maximum price would be calculated for the insurance company share price or whole price.
+
+### *Description*
+
+A brief explanation for the line rule used.
+
+### *Supplemental
+
+When you create an agreement clause in supplemental insurance type then you have to select an agreement in Agreements --> General --> Public Insurance Agreement. Afterwards, you can also create the line rule by specifying PS or SS or PS SS rule.
+
+### *Error*
+
+With the line rule, the price is calculated if the price is found in the price list. If not found, the error occurs, in that case you should update your price list or create a new alternative price list. With the error option, you can select 'Show error' that is used for warning or 'Continue'.
+
+
+
 
 
 
