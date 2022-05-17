@@ -7,4 +7,8 @@ description: >
 Learn how to create an appointment and find the appointment arranged
 ---
 
-Operation Session Rules description
+## Operation Session Rules
+
+For a session rule, the fees of the other medical staff responsible for an operation are calculated.
+
+

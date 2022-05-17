@@ -9,27 +9,30 @@ Learn how to create an appointment and find the appointment arranged
 
 # Agreement Clauses
 
+---
+
 A clause in an agreement is a provision related to the overall agreement. Typically, clauses clarify the responsibilities of each party in the agreement. A clause can require an action or can prevent an action.
 
 The set of rules need to be created in this session.
 
 ## General
 
+---
+
 ### *Admission Rules*
 
----
 
 You can adjust the admission rules by determining whether there are insurrance class, ceiling, customer number, policy number, need for prepay (outpatient and inpatient). The prepay functions are important because if the patient is not charged for prepayment while selected as 'Yes', the relevant department can not notice the patient name on the waiting patient list.
 
 ### *Customer*
 
----
+
 
 You can specify the currency type that the customer prefer. So you can calculate the amounts with different currencies. This is useful for foreign insurance company agreements. They might demand the claim with different exchange rates. This option provides you to calculate prices with required currency and create invoice currency.
 
 ### *Person*
 
----
+
 
 For the patient, you can specify which currency you are going to use. This option provides you to calculate prices with required currency and create invoice currency. You can collect money with any currency you demand.
 
@@ -46,6 +49,8 @@ Insurance company might limit the prices by determining maximum price declared i
 You can specify the insurance class according to the agreement you have.
 
 ## Line Rule
+
+---
 
 
 
@@ -109,13 +114,35 @@ The maximum price would be calculated for the insurance company share price or w
 
 A brief explanation for the line rule used.
 
-### *Supplemental
+### *Supplemental*
 
 When you create an agreement clause in supplemental insurance type then you have to select an agreement in Agreements --> General --> Public Insurance Agreement. Afterwards, you can also create the line rule by specifying PS or SS or PS SS rule.
 
 ### *Error*
 
 With the line rule, the price is calculated if the price is found in the price list. If not found, the error occurs, in that case you should update your price list or create a new alternative price list. With the error option, you can select 'Show error' that is used for warning or 'Continue'.
+
+## Custom Price
+
+---
+
+You need to specify a price for a service if the line rule does not contain any price for the service at all. Because the price does not exist in the price lists defined in the line rules. For that reason, in 'Custom Price' section, you can create a new price by entering the specific service information to the fields.
+
+## Provision Ceiling
+
+---
+
+For an insurance class, you can determine the maximum charge amount for the patient. The rest of the amount will be covered by the sponsor.
+
+## Operation Rules
+
+---
+
+This is used for calculating the price of an operation. For each operation, you have a price in your price list. In this section, you select a price group and a service, then you can assign an operation rule and a session rule to a service in a price group. The rules are explained in 'Operation Rules' and 'Operation Session Rules' in 'Price Lists and Agreements'.
+
+## Price Custom Rule
+---
+
 
 
 
