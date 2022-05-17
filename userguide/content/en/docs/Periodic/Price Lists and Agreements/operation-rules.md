@@ -37,7 +37,7 @@ A revision surgery is a procedure to correct a previous operation that either fa
 
 ### Complication
 
-Complications is defined as any deviation from the normal postoperative course. If there is a complication and the operator doctors have to re-operate the patient. Health institutes do not often demand any charge from such a patient.
+Complication is defined as any deviation from the normal postoperative course. If there is a complication and the operator doctors have to re-operate the patient. Health institutes do not often demand any charge from such a patient.
 
 
 
