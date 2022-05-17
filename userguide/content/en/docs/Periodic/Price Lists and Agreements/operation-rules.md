@@ -35,7 +35,7 @@ Recurrence is the return of symptoms of a disease after a remission. If there is
 
 A revision surgery is a procedure to correct a previous operation that either failed to relieve pain from your initial condition or caused further internal complications due to a misdiagnosis, surgeon error, lack of fusion, infection, hardware malfunction, or lack of recovery following a previous surgery. For such cases, health institutes demand the half of the price or discounted price for the revision.
 
-## Complication
+### Complication
 
 Complications is defined as any deviation from the normal postoperative course. If there is a complication and the operator doctors have to re-operate the patient. Health institutes do not often demand any charge from such a patient.
 
