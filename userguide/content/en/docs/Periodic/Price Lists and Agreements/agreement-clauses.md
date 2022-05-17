@@ -138,10 +138,35 @@ For an insurance class, you can determine the maximum charge amount for the pati
 
 ---
 
-This is used for calculating the price of an operation. For each operation, you have a price in your price list. In this section, you select a price group and a service, then you can assign an operation rule and a session rule to a service in a price group. The rules are explained in 'Operation Rules' and 'Operation Session Rules' in 'Price Lists and Agreements'.
+This is used for calculating the price of an operation. For each operation, you have a price in your price list. In this section, you select a price group and a service, then you can assign an operation rule and a session rule to a service in a price group. The rules are explained in 'Operation Rules' and 'Operation Session Rules' in 'Price Lists and Agreements' in 'Periodic'.
 
 ## Price Custom Rule
+
 ---
+
+You can create price custom rule for the specific situations. For example, the MRI of the patient is taken and the insurance company pay its share for the service. The insurance company also might declare not to pay for the second MRI within 6 months. For such demands, you need to define price custom rules. To create a price custom rule, a piece of code has to be written in MedAX according to the requirement.
+
+##Control Durations
+
+---
+
+This section is used for follow-ups. You can create the duration of the follow-ups relating a service. For example, when a patient has an  operation, the patient is going to come to hospital for follow-up for the number of days you specify in 'Control Day Count'.
+
+## Package
+
+---
+
+Package is designed for that a patient can receive various services within a time period. For example, a patient make a payment for a package. The package contains dental examination for 3 times, hospitalization for 5 days or examining blood test for 3 times or etc. In this section, you can create the packages according to your services provided.
+
+## Passive
+
+---
+
+Various services within a facility can not be used with an insurance or government. The sponsor might not allow you to operate a patient in a clinic for a type of operation, only allows to do in a hospital that includes surgery department. By the help of this section, you can make your services within a facility passive according to the request of your sponsor.
+
+
+
+
 
 
 
