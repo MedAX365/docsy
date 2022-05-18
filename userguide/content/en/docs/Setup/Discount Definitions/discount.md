@@ -7,4 +7,8 @@ description: >
 Learn how to create an outpatient visit and find the outpatient visit created previously
 ---
 
-Discount description
+## Discount
+
+You can create discount reason in this section. Also, you can edit your reason by making it active or passive.
+
+
