@@ -7,5 +7,6 @@ description: >
 Learn how to create an outpatient visit and find the outpatient visit created previously
 ---
 
-ICD Codes description
+## ICD Codes
 
+These are the international code of diseases. This is list issued by Centers for Disease Control and Prevention. When a doctor determine a diagnosis for a patient, the doctor can easily select one of the codes for the diagnosis.

@@ -7,4 +7,8 @@ description: >
 Learn how to create an outpatient visit and find the outpatient visit created previously
 ---
 
-Discount Approve Users description
+## Discount Approve Users
+
+For an each facility, you can determine your staff that has the privilege to approve the discount requests.
+
+You can also check the discount approve users in **Setup-Facilities** section.

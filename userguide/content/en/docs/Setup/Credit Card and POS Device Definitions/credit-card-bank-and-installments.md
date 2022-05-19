@@ -7,4 +7,6 @@ description: >
 Learn how to create an outpatient visit and find the outpatient visit created previously
 ---
 
-Credit Card Bank and Installments description
+## Credit Card Bank and Installments
+
+By the help of this section, you can arrange the installment types to use for each bank.

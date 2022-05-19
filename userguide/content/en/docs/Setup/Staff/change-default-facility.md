@@ -7,4 +7,6 @@ description: >
 Learn how to create an outpatient visit and find the outpatient visit created previously
 ---
 
-Change Default Facility description
+## Change Default Facility
+
+You can select your facility that you work in.
