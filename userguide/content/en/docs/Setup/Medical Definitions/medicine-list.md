@@ -7,4 +7,6 @@ description: >
 Learn how to create an outpatient visit and find the outpatient visit created previously
 ---
 
-Medicine List description
+## Medicine List
+
+Medicine list is used for prescription. Each medicine includes barcode, medicine name, prescription type, route of and calculated price.

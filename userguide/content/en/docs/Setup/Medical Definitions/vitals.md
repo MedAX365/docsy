@@ -7,4 +7,6 @@ description: >
 Learn how to create an outpatient visit and find the outpatient visit created previously
 ---
 
-Vitals description
+## Vital
+
+Vital is a list used for checking the vital functionalities of the patients. You can create the list in this section.

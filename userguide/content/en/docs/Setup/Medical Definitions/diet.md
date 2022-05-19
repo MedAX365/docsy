@@ -7,4 +7,6 @@ description: >
 Learn how to create an outpatient visit and find the outpatient visit created previously
 ---
 
-Diet description
+## Diet
+
+Diet is a list used for ordering diets to inpatients. You can create the content list for diet in this section.

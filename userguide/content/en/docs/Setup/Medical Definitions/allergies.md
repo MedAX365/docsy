@@ -7,4 +7,6 @@ description: >
 Learn how to create an outpatient visit and find the outpatient visit created previously
 ---
 
-Allergies description
+## Allergies
+
+Allergies section is designed for creating an allergies list. The list is used by doctors while examination.
