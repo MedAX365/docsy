@@ -7,4 +7,6 @@ description: >
 Learn how to create an outpatient visit and find the outpatient visit created previously
 ---
 
-Currency description
+## Currency
+
+You can specify currencies that the facility use. You can allow the receptionist that can create transaction against the currency.
