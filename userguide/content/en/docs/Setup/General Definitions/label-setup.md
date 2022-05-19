@@ -7,12 +7,10 @@ description: >
 Learn how to create an outpatient visit and find the outpatient visit created previously
 ---
 
-Label Setup description
+## Label Setup
 
-ZPL is a print language used by many label printers. A print language is a set of commands that can be used to draw elements like text, shapes, barcodes and images, combine these elements, and finally print them.
+This is the label system you can use. You can create a label by specifying printer type. Printer type is used for determining the appropriate print language.A print language is a set of commands that can be used to draw elements like text, shapes, barcodes and images, combine these elements, and finally print them. For example, ZPL is a print language used by many label printers.
 
-Imagine that you want to print a label containing a product name, a barcode for a SKU number, and a box around it all. You probably need to tell your printer:
+To use visit label or patient label or laboratory label, you have to create the labels by entering the proper information accordingly. For example, you can select the patient labels you create in 'Patient Label' in ''Facilities' section. Then, while admitting a patient, the label is printed automatically.
 
-What the product name is, where to print it, and what font to use.
-What kind of barcode you want to use, where you want to place it, and the SKU number to encode.
-The box location, the box size, and the thickness of the box lines.
+
