@@ -25,11 +25,11 @@ Various operations might be within the different incisions at the same time. Lik
 
 ### Different Crew
 
-Different crew might work on various operations in a single theatre. For example, while a patient is in a trauma, a operator doctor and assistant operate on a part of the body and other crew operate on the other part of the body. These are considered as different crew so you have to calculate the prices accordingly.
+Different crew might work on various operations in a single theatre. For example, while a patient is in a trauma, a operator doctor and assistant operate on a part of the body and other crew operate on the other part of the body. This is considered as different crew so you have to calculate the prices accordingly.
 
 ### Recurrence
 
-Recurrence is the return of symptoms of a disease after a remission. If there is a recurrence, the price is raised. For example, a patient had an operation, and 5 years later, the patient is needed to be operated for the second time. The operation will be much harder and risky for the operator doctors. That's why, the price of the second operation is much higher than the first one.
+Recurrence is the return of symptoms of a disease after a remission. If there is a recurrence, the price is raised. For example, a patient had an operation, and 5 years later, the patient is needed to be operated for the second time. The operation will be much harder and risky for an operator doctor. That's why, the price of the second operation is much higher than the first one.
 
 ### Revision
 

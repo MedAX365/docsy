@@ -11,7 +11,7 @@ Learn how to create an appointment and find the appointment arranged
 
 You can generate legal forms in the section. The cashier is responsible for the legal forms created and has to deliver the used ones at the end of the day during the cash reconciliation.
 
-## Creating a legal form
+### Creating a legal form
 
 You can use the following steps to create a new legal form and link the form to a cashier.
 

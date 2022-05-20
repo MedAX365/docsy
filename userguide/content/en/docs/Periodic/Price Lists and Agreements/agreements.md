@@ -13,7 +13,7 @@ Health agreement is an agreement that requires an insurer to pay some or all of 
 
 The purpose of an insurance agreement is to create a legally binding contract between the insurance company and the insured. Within this agreement, the insured agrees to pay small periodic payments in exchange for a payout from the insurance company if the covered event specified in the agreement occurs.
 
-In the 'Aggreement' session, you can create new agreements. So you can specify the coverage of patients while admitting them. While creating a new agreement, you can determine the 'Insurance Type'. These are public, private insurance, employer, individual or supplemental. You can also determine the acitivity of the agreement by using 'Active' option.
+In the 'Aggreement' session, you can create a new agreement. So you can specify the coverage of patients while admitting them. While creating a new agreement, you can determine the 'Insurance Type'. These are public, private insurance, employer, individual or supplemental. You can also determine the acitivity of the agreement by using 'Active' option.
 
 ## Facilities
 
@@ -25,7 +25,7 @@ You can select the proper aggreement clause for each facility and for each agree
 
 ### *Customer*
 
-You can specify the sponsor customer account for claim invoice.Various insurance companies sell the insurance policy but they do not fulfill the insurance claims by themselves. They use various third-party companies (underwriters). For example, you have multiple agreements related with third-party companies. They sell insurance policy on behalf of another company. When you claim money from the one of the companies, the another company will make the payment. That's why, you need to specify the right responsible company in 'Sponsor Customer Account'.
+You can specify the sponsor customer account for claim invoice.Various insurance companies sell the insurance policy but they do not fulfill the insurance claims by themselves. They use various third-party companies (underwriters). For example, you can have multiple agreements related with third-party companies. They sell insurance policy on behalf of another company. When you claim money from the one of the companies, the another company will make the payment. That's why, you need to specify the right responsible company in 'Sponsor Customer Account'.
 
 ### *Invoice Design*
 

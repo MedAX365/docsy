@@ -22,7 +22,7 @@ The set of rules need to be created in this session.
 ### *Admission Rules*
 
 
-You can adjust the admission rules by determining whether there are insurrance class, ceiling, customer number, policy number, need for prepay (outpatient and inpatient). The prepay functions are important because if the patient is not charged for prepayment while selected as 'Yes', the relevant department can not notice the patient name on the waiting patient list.
+You can adjust the admission rules by determining whether there are insurance class, ceiling, customer number, policy number, need for prepay (outpatient and inpatient). The prepay functions are important because if the patient is not charged for prepayment while selected as 'Yes', the relevant department can not notice the patient name on the waiting patient list.
 
 ### *Customer*
 
@@ -34,15 +34,15 @@ You can specify the currency type that the customer prefer. So you can calculate
 
 
 
-For the patient, you can specify which currency you are going to use. This option provides you to calculate prices with required currency and create invoice currency. You can collect money with any currency you demand.
+For a patient, you can specify which currency you are going to use. This option provides you to calculate prices with required currency and create invoice currency. You can collect money with any currency you demand.
 
 ### *Provision*
 
-A provision is a condition in an insurance contract or agreement. You can consult with the insurance company for each service. Before providing a service, you ask the insurance company what the payment will be or how much the insurance company will cover. Provision is used for such a purpose. If you specify the 'Provision Type', the visit file start to ask for a provision before the receptionist create an invoice or collect money for each service. There is a 'Provision Count' option. By the help of this, you can create multiple provision records or single one. If it is '0' (zero) it will be multiple, or we can specify any number you demand. It is usually specified as '1' (one). Because it contains any service expense. At the end of the patient discharge, you can create one final provision for every service taken by the patient.
+A provision is a condition in an insurance contract or agreement. You can consult with the insurance company for each service. Before providing a service, you ask the insurance company what the payment will be or how much the insurance company will cover. Provision is used for such a purpose. If you specify the 'Provision Type', the visit file start to ask for a provision before the receptionist create an invoice or collect money for each service. There is a 'Provision Count' option. By the help of this, you can create multiple provision records or single one. If it is '0' (zero) it will be multiple, or we can specify any number you demand. It is usually specified as '1' (one). Because it contains any service expense. At the end of a patient discharge, you can create one final provision for every service taken by the patient.
 
 ### *Max Price*
 
-Insurance company might limit the prices by determining maximum price declared in a tariff(Doctor's Union or Government). To meet the requirement, you can select a price list demanded by the insurance company in 'Price Lists' session created. So during the calculation, the price can not exceed the price determined in the price list.
+Insurance company might limit the prices at a certain level depending on the prices declared in a tariff(Doctor's Union or Government). Therefore, after the calculation for a price by the help of rules identified in an agreement clause, the price must not exceed the price specified in 'Max Price'. To specify the maximum price, you have to select a price list demanded by the insurance company in 'Price Lists' session created and specify the discount percentage that insurance company allow.
 
 ### *Insurance Class*
 
@@ -62,7 +62,7 @@ At the beginning of a line rule, you can see 'Insurance Class', 'Medical Meaning
 
 ### *Clinic-Facility-Physician*
 
-After the first part, you can see 'Clinic', 'Facility', 'Physician'. These are price groups depending on them. The query also search the groups. There is normal examinations in pediatry and dental clinic. The name of the medical service is same but the prices of them are different. For that reason, clinic type is essential to determine a right price. As for the 'Facility', prices can be differiantiated because of the facility price groups. To specify the right facility group, you have to define the group in the 'Periods' in 'Agreements'. Thus, the facility group that is specified in the line rule have to be matched with the facility group specified in 'Periods' in 'Agreements'. Physician price group is usually used for if there is a medical doctor that has a special or remarkable functionality (For example, the doctor might be a professor). Various doctors might have a reputation on a medical field. That's why, the price of a service provided by such a doctor could be different from other services' prices.
+After the first part, you can see 'Clinic', 'Facility', 'Physician'. These are price groups depending on them. The query also search the groups. There is normal examination in pediatry and dental clinic. The name of the medical service is same but the prices of them are different. For that reason, clinic type is essential to determine a right price. As for the 'Facility', prices can be differantiated because of the facility price groups. To specify the right facility group, you have to define the group in the 'Periods' in 'Agreements'. Thus, the facility group that is specified in the line rule have to be matched with the facility group specified in 'Periods' in 'Agreements'. Physician price group is usually used for if there is a medical doctor that has a special or remarkable functionality (For example, the doctor might be a professor). A doctor might have a reputation on a medical field. That's why, the price of a service provided by such a doctor could be different from other services' prices.
 
 ### *Evaluation of the Prices-Rules*
 
@@ -84,7 +84,7 @@ The patient and sponsor share are calculated independently and the charges refle
 
 The patient and sponsor share are calculated, then sponsor share is substracted from the patient share. The remaining amount is reflected to the patient.
 
-#### *SS% - The Ratio for Sponsor Share*
+#### *SS% - The Percentage for Sponsor Share*
 
 Sponsor might declare that the price of the service will be reflected to patients in a certain percentage of prices based on a certain price list.
 
@@ -104,7 +104,7 @@ The patient and sponsor share are calculated independently. When the price can n
 
 ### *Require Provision*
 
-Various services requires provision, so you can adjust the requirement by the help of this option. Te selection of provision type in 'General' section is prerequisite for 'Req Provision'.
+Various services requires provision, so you can adjust the requirement by the help of this option. The selection of provision type in 'General' section is prerequisite for 'Req Provision'.
 
 ### *Max Price*
 
@@ -116,7 +116,7 @@ A brief explanation for the line rule used.
 
 ### *Supplemental*
 
-When you create an agreement clause in supplemental insurance type then you have to select an agreement in Agreements --> General --> Public Insurance Agreement. Afterwards, you can also create the line rule by specifying PS or SS or PS SS rule.
+When you create an agreement clause in supplemental insurance type then you have to select an agreement in **Periodic-Price Lists and Agreements-Agreements-General-Public Insurance Agreement**. Afterwards, you can also create the line rule by specifying PS or SS or PS SS rule.
 
 ### *Error*
 

@@ -29,7 +29,7 @@ You can create campaigns on specific service within a period of time. You can ma
 
 #### *Loyality Card*
 
-Loyality Card is a privilege for your customers. For example, a patient has a loyality card. And you can determine a special price for a cholestrol test. The price is only valid for the patients that have the loyality card.
+Loyality Card is a privilege for your customers. For example, a patient has a loyality card. And you can determine a special price for a cholestrol test. The price is only valid for a patient that has the loyality card.
 
 ### Periods
 
