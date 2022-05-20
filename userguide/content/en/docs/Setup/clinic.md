@@ -13,9 +13,9 @@ Learn how to create an appointment and find the appointment arranged
 
 ---
 
-You can define clinics in the Setup-Clinic session. For each clinic and for each facility, you can specify what type of health service is provided in which facility you select on behalf of the clinic determined. For example, cardiology clinic exists in Bulawayo. Once you select clinic as cardiology and facility as Bulawayo, you can specify the services provided in the clinic such as outpatient, inpatient or procedure by clicking 'Yes'.
+You can define clinics in the **Setup-Clinic** session. For each clinic and for each facility, you can specify what type of health service is provided in which facility you select on behalf of the clinic determined. For example, cardiology clinic exists in Bulawayo. Once you select clinic as cardiology and facility as Bulawayo, you can specify the services provided in the clinic such as outpatient, inpatient or procedure by clicking 'Yes'.
 
-### **Assigning medical form for each clinic**
+### **Assigning medical form to each clinic**
 
 ---
 
