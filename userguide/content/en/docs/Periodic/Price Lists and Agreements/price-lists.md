@@ -17,7 +17,7 @@ To create a new price list, you can use the 'Price Lists' session. You can defin
 
 You can select the services(products) whose prices need to be adjusted for creating a price list.
 
-By the help of table, you can select the reqired services. On the table, there are two columns named 'Price Code' and 'Price Name'. The codes and names will be displayed on the invoice or will be sent to insurrance company while the claim is processed. These columns could be vital, because you can use price codes and names issued by Health Ministry. In an other case, some insurrance companies still use the old price codes, and for that reason you need to specify the old codes in the 'Price Code' field.
+By the help of table, you can select the requ ired services. On the table, there are two columns named 'Price Code' and 'Price Name'. The codes and names will be displayed on the invoice or will be sent to insurrance company while the claim is processed. These columns could be vital, because you can use price codes and names issued by Health Ministry. In an other case, some insurrance companies still use the old price codes, and for that reason you need to specify the old codes in the 'Price Code' field.
 
 The columns to the right of the price column show which price group the selected service belongs to.
 
